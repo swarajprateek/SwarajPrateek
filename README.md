@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @swarajprateek
-- 👀 I’m interested in web automation, computer vision, node.js
-- 🌱 I’m currently learning .net core
-- 💞️ I’m looking to collaborate on automation projects
-- 📫 How to reach me swaraj.prateek@gmail.com, drop a mail
+an algorithm is not made in a day ,
+.
+.
+.
+its made in half a day.
 
 <!---
 swarajprateek/swarajprateek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
